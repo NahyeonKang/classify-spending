@@ -1,33 +1,43 @@
 # classify-spending
   
 ## 8월 22일
-<Done>   
+[Done]   
 - git 사용법
 - 코드 리뷰
-<To Do>  
+[To Do]  
 - 네이버 지도 가게명 크롤링
 - 데이터 업로드
+
+
 ## 8월 29일
-<Done>
+[Done]
 - wandb 소개
 - 코드 리뷰
-<To Do>
+[To Do]
 - 데이터 취합 후 분류 카테고리 생각해오기
+
+
 ## 9월 5일
-<Done>
+[Done]
 - 레이블링할 데이터 할당
-<To Do>
+[To Do]
 - 19일까지 레이블링
+
+
 ## 9월 19일
-<Done>
+[Done]
 - 레이블링한 데이터 취합
-<To Do>  
+[To Do]
 - 구축한 데이터로 모델 학습
+
+
 ## 9월 26일
-<Done>
+[Done]
 - 학습결과 공유
-<To Do>
+[To Do]
 - 서빙 프레임워크 하나 정해서 모델 코드에 적용하기
+
+
 ## 10월 17일
-<To Do>
+[To Do]
 - 간단한 inference 페이지에 모델이 추론한 결과 서빙하기
