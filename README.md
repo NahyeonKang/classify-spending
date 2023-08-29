@@ -1,4 +1,4 @@
-# classify-spending
+# 가계부 앱을 위한 사용내역 카테고리 분류 모델
   
 ## 8월 22일
 [Done]   
