@@ -23,6 +23,7 @@
 
 ## 9월 5일
 [Done]
+- OpenAI API를 활용한 레이블링 자동화 (semi-supervised learning)
 - 레이블링할 데이터 할당
 
 
